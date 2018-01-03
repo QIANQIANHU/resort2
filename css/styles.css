@@ -2,3 +2,11 @@ img {
   width: 300px;
   height: 200px;
 }
+
+body {
+  background-color: #ffb3b3;
+  margin-top:100px;
+	margin-right:70px;
+	margin-bottom:10px;
+	margin-left:70px;
+}
